@@ -1,0 +1,15 @@
+Attenzione, usando questo codice ti assumi la
+responsabilità dei danni che puoi provocare.
+Io, Davide Galilei, non mi assumo alcuna
+responsabilità dell'uso che ne sarà fatto.
+
+Requisiti: Python (con delle dipendenze*)
+
+1. Mettere il file Bot.pyw, requirements.txt, Startup.mp3
+e Startup.bat in una cartella a scelta, ad 
+esempio "C:\Bot"
+
+2. Mettere un collegamento al file Startup.bat
+nella cartella di avvio di Windows (per raggiungerla
+bisogna premere Win+R, e scrivere shell:startup).
+
