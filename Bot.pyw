@@ -7,7 +7,7 @@ responsabilità dell'uso che ne sarà fatto.
 
 apiId =  # Lo puoi trovare su my.telegram.org/apps
 apiHash = "" # Idem per apiId
-admin = [239556789] # Il tuo id di telegram
+admin = [] # Il tuo id di telegram
 botToken = "" # Il token del bot che puoi trovare da @BotFather
 
 start_message = (":) fai /help") # Messaggio iniziale
